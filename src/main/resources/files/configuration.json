@@ -1,0 +1,56 @@
+{
+    "tenantId": "1",
+    "bannerImageUrl": "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/valeriia-bugaiova-_pPHgeHz1uk-unsplash.jpg",
+    "defaultPropertyId": 7,
+    "defaultPropertyName": "Team 7 Hotel",
+    "propertyConfig": {
+        "first": {
+            "guests": {
+                "show": true,
+                "maxNumberOfGuests": 10,
+                "guestsType": {
+                    "kids": true,
+                    "teens": true,
+                    "adults": true
+                }
+            },
+            "rooms": {
+                "show": true,
+                "maxNumberOfRooms": 5
+            },
+            "wheelchair": {
+                "show": true
+            },
+            "GRAND_DELUXE": [
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-engin-akyurt-1579253.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-jean-van-der-meulen-1454806.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-m%26w-studios-90317.jpg"
+            ],
+            "STANDARD_SUITE": [
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-engin-akyurt-2952663.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-m%26w-studios-90317.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-pixabay-164595+(1).jpg"
+            ],
+            "GARDEN_SUITE": [
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-pixabay-164595.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-m%26w-studios-90317.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-pixabay-210265.jpg"
+            ],
+            "COUPLE_SUITE": [
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-pixabay-262048.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-pixabay-271619.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-pixabay-271639.jpg"
+            ],
+            "SUPER_DELUXE": [
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-pixabay-279746.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-suhel-vba-3659681.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-terry-magallanes-2631746.jpg"
+            ],
+            "FAMILY_DELUXE": [
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-vecislavas-popa-1571450.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-vecislavas-popa-1743229.jpg",
+                "https://kdu-team7-assets.s3.ap-northeast-1.amazonaws.com/pexels-zak-chapman-2030119.jpg"
+            ]
+        }
+    }
+}
